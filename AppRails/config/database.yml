@@ -66,7 +66,7 @@ test:
   database: AppRails_test  #can be anything unique
   host: localhost
   username: postgres
-  password: 12345
+  password: 12345 
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
 # ever seen by anyone, they now have access to your database.
